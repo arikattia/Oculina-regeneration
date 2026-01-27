@@ -21,7 +21,7 @@ To investigate the regenerative process in O. Patagonica following stress exposu
 
   ## Primary Results
 ### Morphological Analysis 
-![oculina regeneration morphology](<oculina regeneration morphology.png>)
+![oculina regeneration morphology](https://github.com/arikattia/Oculina-regeneration/blob/main/images/oculina%20regeneration%20morphology.png?raw=true)
 
 ### Key Questions
 - What triggers regeneration post-stress?
