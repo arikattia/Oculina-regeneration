@@ -9,12 +9,28 @@ To investigate the regenerative process in O. Patagonica following stress exposu
 ![experiment planning](https://github.com/arikattia/Oculina-regeneration/blob/main/images/experiment%20design.png?raw=true)
 ## Methods
 
-CFW stress protocol
+- CFW stress protocol
 
-Regeneration monitoring & morphological analysis
+- Regeneration monitoring & morphological analysis
 
-Histology and immunohistochemistry
+- Histology and immunohistochemistry
 
-Metabolomics
+- Metabolomics
 
-qPCR
+- qPCR
+
+### Key Questions
+- What triggers regeneration post-stress?
+
+- Are stem-like cells involved  in regeneration?
+
+- Do metabolites promote regeneration?
+### Why It Matters?
+- Regeneration is key to coral resilience!
+
+- Biomarkers of recovery can guide conservation!
+
+- Supports reef restoration under climate change!
+
+
+
